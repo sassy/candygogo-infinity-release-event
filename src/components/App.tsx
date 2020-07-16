@@ -23,8 +23,8 @@ function App() {
           <li>14日火曜日　１９：００～HMV&BOOKS SHIBUYA ７階（渋谷modi内７階）</li>
           <li>15日水曜日　２０：００～SHIBUYA TSUTAYA8階</li>
           <li>16日木曜日　２０：００～タワーレコード横浜ビブレ店</li>
-          <li>17日金曜日 　なし</li>
-          <li>18日土曜日　＊調整中</li>
+          <li>17日金曜日　なし</li>
+          <li>18日土曜日　なし</li>
           <li>19日日曜日　１３：００～タワーレコード池袋店5階</li>
           </ul>
         </div>
